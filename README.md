@@ -1,4 +1,4 @@
-# **Theme Name**
+# **Discourse Compose Boxed**
 
 **Theme Summary**
 
